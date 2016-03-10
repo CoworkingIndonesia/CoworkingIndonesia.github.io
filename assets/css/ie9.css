@@ -6,7 +6,7 @@
 
 /* Signup Form */
 
-	#signup-form > * {
+	#mc-embedded-subscribe-form > * {
 		display: inline-block;
 		vertical-align: top;
 	}
